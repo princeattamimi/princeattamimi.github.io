@@ -403,18 +403,24 @@ section h2{
 
 /* Social Media */
 .whatsapp, .instagram, .twitter{
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     position: fixed;
     bottom: 0;
     left: 0;
     cursor: pointer;
 }
 .twitter{
-    bottom: 14%;
+    width: 60px;
+    height: 60px;
+    bottom: 11%;
+    left: 5px;
 }
 .instagram{
-    bottom: 7%;
+    width: 60px;
+    height: 60px;
+    bottom: 6%;
+    left: 5px;
 }
 .whatsapp img, .instagram img, .twitter img{
     width: 100%;
@@ -537,5 +543,10 @@ footer p a{
     .buttons .button{
         font-size: 25px;
         border-radius: 3px;
+    }
+
+    footer{
+        background-color: #eee;
+        font-size: 25px;
     }
 }
