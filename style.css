@@ -402,7 +402,7 @@ section h2{
 /* Contact End */
 
 /* Social Media */
-.whatsapp, .facebook, .telegram{
+.whatsapp, .instagram, .twitter{
     width: 80px;
     height: 80px;
     position: fixed;
@@ -410,10 +410,10 @@ section h2{
     left: 0;
     cursor: pointer;
 }
-.telegram{
+.twitter{
     bottom: 14%;
 }
-.facebook{
+.instagram{
     bottom: 7%;
 }
 .whatsapp img, .facebook img, .telegram img{
