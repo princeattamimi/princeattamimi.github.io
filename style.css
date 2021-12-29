@@ -546,7 +546,7 @@ footer p a{
     }
 
     footer{
-        background-color: #eee;
+        background-color: rgb(240, 240, 240);
         font-size: 25px;
     }
 }
